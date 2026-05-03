@@ -1,8 +1,4 @@
-﻿# ML Model files (too large for GitHub)
-models/phishguard_model.pkl
-models/phishguard_scaler.pkl
-
-# Dataset (too large for GitHub)
+﻿# Dataset (too large for GitHub)
 data/phishing_dataset.csv
 
 # Python cache
